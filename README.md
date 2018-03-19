@@ -9,3 +9,9 @@
  * 5. If Class has Any Mutable Objects than while returning always return clone copy of that mutable object.
  * */
 
+
+// Steps For Creating SingleTon Class
+/*
+ * 1. Make constructor as private.
+ * 2. Write a static method that has return type object of this singleton class. Here, the concept of Lazy initialization in used to write this static method.
+ * */
