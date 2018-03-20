@@ -17,3 +17,11 @@
  
  Difference in normal and singleton class in terms of instantiation is that, For normal class we use constructor, whereas for singleton class we use getInstance() method
  * */
+ 
+ Default assigned values By Compiler.
+
+boolean : false
+int : 0
+double : 0.0
+String : null
+User Defined Type : null
